@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Угадай число. Субеев Асхат</string>
+    <string name="other">Введите другое число!</string>
+    <string name="behind">Недолет!</string>
+    <string name="ahead">Перелет!</string>
+    <string name="hit">В точку! Сыграем еще раз?</string>
+    <string name="input_value">Ввести значение:</string>
+    <string name="play_more">Сыграть еще</string>
+    <string name="try_to_guess">Попробуйте угадать число (1 &#8211; 100)</string>
+    <string name="error">Неверный ввод!</string>
+</resources>
